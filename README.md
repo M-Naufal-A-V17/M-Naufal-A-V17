@@ -32,6 +32,7 @@
   </a>
 </div>
 
+![](https://github-profile-trophy.vercel.app/?username=M-NAUFAL-A-V17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ###
 
 <br clear="both">
