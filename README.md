@@ -1,5 +1,5 @@
 ## Hi there 👋i'm vall
-[L](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBqcTlkZTJmcHJ6MGR6Z3kyajFka21zNTZjeHN2cGU2OW9rNDVsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Z6iLzMvdhKdNK/giphy.gif)!
+![L](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBqcTlkZTJmcHJ6MGR6Z3kyajFka21zNTZjeHN2cGU2OW9rNDVsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Z6iLzMvdhKdNK/giphy.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mnflalvrzy?igsh=MXdscmMyc24yNHZldA==) 
