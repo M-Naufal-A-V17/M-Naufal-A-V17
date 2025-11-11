@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is vall</h2>
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBqcTlkZTJmcHJ6MGR6Z3kyajFka21zNTZjeHN2cGU2OW9rNDVsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YmZOBDYBcmWK4/giphy.gif"  />
+![L](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpwcjc1ajEwOHg1cWVzb3BsZXg4eGlkd2Z3aXU5ejk5b3FqN3BhYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YWB6Hi29vA3jG/giphy.gif)
 
 ###
 
